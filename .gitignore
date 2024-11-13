@@ -1,0 +1,16 @@
+*synctex.gz
+*.Rapp.history
+*.Rdata
+*.RData
+*.Rda
+*.rds
+*.rda
+*.Rds
+*.Rhistory
+*.DS_Store
+*.aux
+*.log
+*.blg
+
+notposting/
+.Rproj.user
